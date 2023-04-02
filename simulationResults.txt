@@ -1,0 +1,390 @@
+
+
+
+ DOWNTOWN POPULATION: 
+----------------------
+
+Yurem Merritt           Ignorant          Downtown          
+Mohamed Mosley          Ignorant          Downtown          
+Antwan Tanner           Ignorant          Downtown          
+Anna Parsons            Ignorant          Downtown          
+Marlie Kerr             Ignorant          Downtown          
+Jaidyn Young            Ignorant          Downtown          
+Hanna Shah              Ignorant          Downtown          
+Susan Acevedo           Ignorant          Downtown          
+Quentin Barry           Ignorant          Downtown          
+Madyson Fowler          Ignorant          Downtown          
+Cohen Walker            Ignorant          Downtown          
+Charlotte Bennett       Ignorant          Downtown          
+Macy Day                Ignorant          Downtown          
+Gregory Stephens        Ignorant          Downtown          
+Alexus Dunn             Ignorant          Downtown          
+Dania Gallagher         Ignorant          Downtown          
+Cherish Hull            Ignorant          Downtown          
+Abram Chavez            Ignorant          Downtown          
+Jenna Gentry            Ignorant          Downtown          
+Dayton Solis            Ignorant          Downtown          
+Selah Wallace           Ignorant          Downtown          
+Ethan Parsons           Ignorant          Downtown          
+Brady Campbell          Ignorant          Downtown          
+Dustin Bradley          Ignorant          Downtown          
+Terrence Barry          Ignorant          Downtown          
+Shyla Wilkinson         Ignorant          Downtown          
+Dominick Wade           Ignorant          Downtown          
+Gunner Beasley          Ignorant          Downtown          
+Demetrius Mullen        Ignorant          Downtown          
+Melody Jackson          Ignorant          Downtown          
+Presley Carter          Ignorant          Downtown          
+Kallie Petersen         Ignorant          Downtown          
+Steve Chandler          Ignorant          Downtown          
+Maeve Schaefer          Ignorant          Downtown          
+Myla Byrd               Ignorant          Downtown          
+Killian Joyce           Ignorant          Downtown          
+Mackenzie Barrera       Ignorant          Downtown          
+Carter Moon             Ignorant          Downtown          
+Miguel Peck             Ignorant          Downtown          
+Bryce Larson            Ignorant          Downtown          
+Braylen Hutchinson      Ignorant          Downtown          
+Selina Jackson          Ignorant          Downtown          
+Cristian May            Ignorant          Downtown          
+Beau House              Ignorant          Downtown          
+Kolton Wells            Ignorant          Downtown          
+Malia Watkins           Ignorant          Downtown          
+Nathan Woods            Ignorant          Downtown          
+Humberto Roman          Ignorant          Downtown          
+Nigel Vazquez           Ignorant          Downtown          
+Reina Mclean            Ignorant          Downtown          
+Kyra Wells              Ignorant          Downtown          
+Rory Hayes              Ignorant          Downtown          
+Adalynn Ayers           Ignorant          Downtown          
+Colin Schroeder         Ignorant          Downtown          
+Jaden Bullock           Ignorant          Downtown          
+Chris Ferguson          Ignorant          Downtown          
+Melvin Hudson           Ignorant          Downtown          
+Sincere Smith           Ignorant          Downtown          
+Presley Blackwell       Ignorant          Downtown          
+Jovani Diaz             Ignorant          Downtown          
+Yaretzi Richards        Ignorant          Downtown          
+Marilyn Henson          Ignorant          Downtown          
+Branson Burgess         Ignorant          Downtown          
+Haleigh Waller          Ignorant          Downtown          
+Jaelyn Lin              Ignorant          Downtown          
+Bruno Ryan              Ignorant          Downtown          
+Rafael Hooper           Ignorant          Downtown          
+Jessica Mitchell        Ignorant          Downtown          
+Lina Ware               Ignorant          Downtown          
+Meadow Villa            Ignorant          Downtown          
+Miley Pacheco           Ignorant          Downtown          
+Jesus Ballard           Ignorant          Downtown          
+Madilyn Villarreal      Ignorant          Downtown          
+Baron Peters            Ignorant          Downtown          
+Piper Madden            Ignorant          Downtown          
+Julianna Vance          Ignorant          Downtown          
+Harley Gilmore          Ignorant          Downtown          
+Nathalia Wheeler        Ignorant          Downtown          
+Laura Larsen            Ignorant          Downtown          
+Rishi Brandt            Ignorant          Downtown          
+Orlando Moon            Ignorant          Downtown          
+Jaycee Clarke           Ignorant          Downtown          
+Sarah Faulkner          Ignorant          Downtown          
+Lilyana Rowland         Ignorant          Downtown          
+Troy Murray             Ignorant          Downtown          
+Abigail Petersen        Ignorant          Downtown          
+Levi Oneill             Ignorant          Downtown          
+Memphis Phelps          Ignorant          Downtown          
+Pamela Spears           Ignorant          Downtown          
+Mohamed Grimes          Ignorant          Downtown          
+Madalyn Schaefer        Ignorant          Downtown          
+Baron Holmes            Ignorant          Downtown          
+Gabriella Page          Ignorant          Downtown          
+Tori Moody              Ignorant          Downtown          
+Tatum Bryant            Ignorant          Downtown          
+Alia Hansen             Ignorant          Downtown          
+Aaliyah Webb            Ignorant          Downtown          
+Dangelo Roy             Ignorant          Downtown          
+Braylon Burch           Ignorant          Downtown          
+Liliana Harrington      Ignorant          Downtown          
+Juliet Campos           Ignorant          Downtown          
+Tripp Mendoza           Ignorant          Downtown          
+Gillian Barton          Ignorant          Downtown          
+David Marsh             Ignorant          Downtown          
+Jordan Oneill           Ignorant          Downtown          
+Erick Odom              Ignorant          Downtown          
+Kolton Kirk             Ignorant          Downtown          
+Sariah Benjamin         Ignorant          Downtown          
+Charlie Maddox          Ignorant          Downtown          
+Niko Reyes              Ignorant          Downtown          
+Jaylen Nguyen           Ignorant          Downtown          
+Abigail Andrade         Ignorant          Downtown          
+Hazel Armstrong         Ignorant          Downtown          
+Bailee Ali              Ignorant          Downtown          
+Antonio Friedman        Ignorant          Downtown          
+Annabel Walls           Ignorant          Downtown          
+Mya Pollard             Ignorant          Downtown          
+Madden Horn             Ignorant          Downtown          
+Summer Brandt           Ignorant          Downtown          
+Alexander Shelton       Ignorant          Downtown          
+Nikolai Meyers          Ignorant          Downtown          
+Kole Woods              Ignorant          Downtown          
+Miranda Glenn           Ignorant          Downtown          
+Fisher Whitney          Ignorant          Downtown          
+
+
+
+ MEDICAL HILL POPULATION: 
+--------------------------
+
+Hazel Armstrong         Zombie            Medical Hill      
+Bailee Ali              Ignorant          Medical Hill      
+Antonio Friedman        Ignorant          Medical Hill      
+Annabel Walls           Ignorant          Medical Hill      
+Mya Pollard             Ignorant          Medical Hill      
+Madden Horn             Ignorant          Medical Hill      
+Summer Brandt           Ignorant          Medical Hill      
+Alexander Shelton       Ignorant          Medical Hill      
+Nikolai Meyers          Ignorant          Medical Hill      
+Kole Woods              Ignorant          Medical Hill      
+Miranda Glenn           Ignorant          Medical Hill      
+Fisher Whitney          Ignorant          Medical Hill      
+Craig Barr              Ignorant          Medical Hill      
+
+
+
+ UNIVERSITY POPULATION: 
+------------------------
+
+Jordan Oneill           Alarmed           University        
+Erick Odom              Ignorant          University        
+Kolton Kirk             Ignorant          University        
+Sariah Benjamin         Ignorant          University        
+Charlie Maddox          Ignorant          University        
+Niko Reyes              Ignorant          University        
+Jaylen Nguyen           Ignorant          University        
+Abigail Andrade         Ignorant          University        
+Hazel Armstrong         Ignorant          University        
+Bailee Ali              Ignorant          University        
+Antonio Friedman        Ignorant          University        
+Annabel Walls           Ignorant          University        
+Mya Pollard             Ignorant          University        
+Madden Horn             Ignorant          University        
+Summer Brandt           Ignorant          University        
+Alexander Shelton       Ignorant          University        
+Nikolai Meyers          Ignorant          University        
+Kole Woods              Ignorant          University        
+Miranda Glenn           Ignorant          University        
+Fisher Whitney          Ignorant          University        
+Craig Barr              Ignorant          University        
+
+
+
+ THE BURBS POPULATION: 
+-----------------------
+
+Orlando Moon            Ignorant          The Burbs         
+Jaycee Clarke           Ignorant          The Burbs         
+Sarah Faulkner          Ignorant          The Burbs         
+Lilyana Rowland         Ignorant          The Burbs         
+Troy Murray             Ignorant          The Burbs         
+Abigail Petersen        Ignorant          The Burbs         
+Levi Oneill             Ignorant          The Burbs         
+Memphis Phelps          Ignorant          The Burbs         
+Pamela Spears           Ignorant          The Burbs         
+Mohamed Grimes          Ignorant          The Burbs         
+Madalyn Schaefer        Ignorant          The Burbs         
+Baron Holmes            Ignorant          The Burbs         
+Gabriella Page          Ignorant          The Burbs         
+Tori Moody              Ignorant          The Burbs         
+Tatum Bryant            Ignorant          The Burbs         
+Alia Hansen             Ignorant          The Burbs         
+Aaliyah Webb            Ignorant          The Burbs         
+Dangelo Roy             Ignorant          The Burbs         
+Braylon Burch           Ignorant          The Burbs         
+Liliana Harrington      Ignorant          The Burbs         
+Juliet Campos           Ignorant          The Burbs         
+Tripp Mendoza           Ignorant          The Burbs         
+Gillian Barton          Ignorant          The Burbs         
+David Marsh             Ignorant          The Burbs         
+Jordan Oneill           Ignorant          The Burbs         
+Erick Odom              Ignorant          The Burbs         
+Kolton Kirk             Ignorant          The Burbs         
+Sariah Benjamin         Ignorant          The Burbs         
+Charlie Maddox          Ignorant          The Burbs         
+Niko Reyes              Ignorant          The Burbs         
+Jaylen Nguyen           Ignorant          The Burbs         
+Abigail Andrade         Ignorant          The Burbs         
+Hazel Armstrong         Ignorant          The Burbs         
+Bailee Ali              Ignorant          The Burbs         
+Antonio Friedman        Ignorant          The Burbs         
+Annabel Walls           Ignorant          The Burbs         
+Mya Pollard             Ignorant          The Burbs         
+Madden Horn             Ignorant          The Burbs         
+Summer Brandt           Ignorant          The Burbs         
+Alexander Shelton       Ignorant          The Burbs         
+Nikolai Meyers          Ignorant          The Burbs         
+Kole Woods              Ignorant          The Burbs         
+Miranda Glenn           Ignorant          The Burbs         
+Fisher Whitney          Ignorant          The Burbs         
+
+
+
+
+ UPDATED POPULATION AFTER 100 DAYS: 
+-------------------------------------
+
+Riley Walsh             Ignorant          The Burbs         
+India Franco            Zombie            University        
+Adeline Mccullough      Zombie            The Burbs         
+Larissa Mayer           Zombie            The Burbs         
+Dean Shea               Ignorant          The Burbs         
+Diamond Perkins         Ignorant          University        
+Aidyn Little            Alarmed           Downtown          
+Tabitha Lynch           Ignorant          Downtown          
+Camilla Combs           Alarmed           Downtown          
+Leah Villarreal         Zombie            Downtown          
+Aisha Romero            Alarmed           Downtown          
+Skyler Tyler            Ignorant          University        
+Shyla Pena              Alarmed           The Burbs         
+Seth Hobbs              Ignorant          University        
+Cordell Bush            Zombie            Downtown          
+Patrick Wagner          Alarmed           Downtown          
+Cody Sherman            Alarmed           The Burbs         
+Jadyn Shah              Alarmed           Downtown          
+Savanah Sparks          Ignorant          Downtown          
+Kayleigh Whitney        Alarmed           The Burbs         
+Shamar Sheppard         Alarmed           Downtown          
+Aidan Lopez             Alarmed           Downtown          
+Kendra Huffman          Alarmed           Downtown          
+Emerson Mccarthy        Ignorant          Downtown          
+Ellen Berry             Alarmed           Medical Hill      
+Kale Oconnell           Alarmed           The Burbs         
+Dean Hopkins            Zombie            University        
+Erick Lynn              Zombie            The Burbs         
+Alina Sosa              Alarmed           Downtown          
+Alex Kelly              Alarmed           The Burbs         
+Ariana Gilmore          Alarmed           University        
+Rosa Zimmerman          Zombie            Downtown          
+Oswaldo Benitez         Zombie            Downtown          
+Reese Garner            Zombie            Downtown          
+Heidy Pham              Ignorant          The Burbs         
+Sincere Bradley         Ignorant          Downtown          
+Lena Ryan               Alarmed           The Burbs         
+Dylan Cruz              Alarmed           University        
+Mauricio Mccall         Zombie            Downtown          
+Jaxson Duarte           Ignorant          Downtown          
+Alexandria Roberson     Ignorant          University        
+Kolten Walters          Alarmed           Downtown          
+Stella West             Zombie            The Burbs         
+Noel Mcpherson          Alarmed           The Burbs         
+Alexander Hays          Alarmed           University        
+Kiera Moses             Alarmed           Downtown          
+Mohammed Sampson        Alarmed           Downtown          
+Joel Hale               Zombie            University        
+Manuel Gaines           Alarmed           Downtown          
+Hanna Jimenez           Alarmed           University        
+Lacey Quinn             Zombie            Medical Hill      
+Grady Goodwin           Zombie            The Burbs         
+Andres Meza             Zombie            Downtown          
+King Rodriguez          Alarmed           University        
+Luna Nash               Ignorant          Downtown          
+Paulina Dean            Alarmed           University        
+Bobby Burnett           Zombie            The Burbs         
+Keyla Hansen            Zombie            Downtown          
+Joslyn Wright           Zombie            Downtown          
+Terry Shannon           Zombie            Downtown          
+Hugo Gardner            Zombie            The Burbs         
+Viviana Delgado         Alarmed           Downtown          
+Leandro Hebert          Alarmed           Downtown          
+Damian Lambert          Ignorant          Downtown          
+Lina Sellers            Alarmed           Downtown          
+Laura Hardin            Alarmed           The Burbs         
+River Ayala             Ignorant          The Burbs         
+Sergio Guerrero         Zombie            Downtown          
+Jazmyn Shea             Zombie            Downtown          
+Seth Frederick          Zombie            Downtown          
+Tanya Compton           Zombie            Downtown          
+Evelyn Blevins          Alarmed           The Burbs         
+Reynaldo Price          Alarmed           Downtown          
+Christina Lawrence      Zombie            Downtown          
+Reina Torres            Zombie            The Burbs         
+Dereon Webster          Alarmed           Downtown          
+Yurem Merritt           Zombie            Downtown          
+Mohamed Mosley          Zombie            University        
+Antwan Tanner           Alarmed           The Burbs         
+Anna Parsons            Zombie            University        
+Marlie Kerr             Alarmed           Downtown          
+Jaidyn Young            Ignorant          The Burbs         
+Hanna Shah              Alarmed           The Burbs         
+Susan Acevedo           Zombie            University        
+Quentin Barry           Alarmed           The Burbs         
+Madyson Fowler          Zombie            The Burbs         
+Cohen Walker            Zombie            The Burbs         
+Charlotte Bennett       Alarmed           The Burbs         
+Macy Day                Zombie            Downtown          
+Gregory Stephens        Alarmed           The Burbs         
+Alexus Dunn             Ignorant          Downtown          
+Dania Gallagher         Zombie            The Burbs         
+Cherish Hull            Ignorant          The Burbs         
+Abram Chavez            Alarmed           Downtown          
+Jenna Gentry            Ignorant          Downtown          
+Dayton Solis            Zombie            The Burbs         
+Selah Wallace           Ignorant          Downtown          
+Ethan Parsons           Zombie            Medical Hill      
+Brady Campbell          Zombie            The Burbs         
+Dustin Bradley          Zombie            The Burbs         
+Terrence Barry          Alarmed           Downtown          
+Shyla Wilkinson         Zombie            University        
+Dominick Wade           Zombie            University        
+Gunner Beasley          Ignorant          Downtown          
+Demetrius Mullen        Ignorant          The Burbs         
+Melody Jackson          Zombie            Downtown          
+Presley Carter          Zombie            Downtown          
+Kallie Petersen         Zombie            Downtown          
+Steve Chandler          Ignorant          Downtown          
+Maeve Schaefer          Ignorant          The Burbs         
+Myla Byrd               Ignorant          The Burbs         
+Killian Joyce           Zombie            The Burbs         
+Mackenzie Barrera       Alarmed           Medical Hill      
+Carter Moon             Zombie            Downtown          
+Miguel Peck             Zombie            The Burbs         
+Bryce Larson            Zombie            Downtown          
+Braylen Hutchinson      Alarmed           University        
+Selina Jackson          Zombie            Downtown          
+Cristian May            Alarmed           Downtown          
+Beau House              Ignorant          The Burbs         
+Kolton Wells            Zombie            University        
+Malia Watkins           Ignorant          University        
+Nathan Woods            Zombie            Downtown          
+Humberto Roman          Zombie            Medical Hill      
+Nigel Vazquez           Zombie            Downtown          
+Reina Mclean            Alarmed           Downtown          
+Kyra Wells              Alarmed           Downtown          
+Rory Hayes              Zombie            Downtown          
+Adalynn Ayers           Zombie            Downtown          
+Colin Schroeder         Ignorant          The Burbs         
+Jaden Bullock           Zombie            University        
+Chris Ferguson          Zombie            Downtown          
+Melvin Hudson           Alarmed           University        
+Sincere Smith           Alarmed           University        
+Presley Blackwell       Zombie            The Burbs         
+Jovani Diaz             Alarmed           The Burbs         
+Yaretzi Richards        Ignorant          Downtown          
+Marilyn Henson          Zombie            University        
+Branson Burgess         Alarmed           Medical Hill      
+Haleigh Waller          Alarmed           The Burbs         
+Jaelyn Lin              Ignorant          Medical Hill      
+Bruno Ryan              Zombie            The Burbs         
+Rafael Hooper           Ignorant          Medical Hill      
+Jessica Mitchell        Alarmed           The Burbs         
+Lina Ware               Alarmed           Downtown          
+Meadow Villa            Alarmed           University        
+Miley Pacheco           Zombie            University        
+Jesus Ballard           Zombie            The Burbs         
+Madilyn Villarreal      Alarmed           The Burbs         
+Baron Peters            Ignorant          Downtown          
+Piper Madden            Alarmed           University        
+Julianna Vance          Zombie            The Burbs         
+Harley Gilmore          Zombie            Downtown          
+Nathalia Wheeler        Zombie            University        
+Laura Larsen            Alarmed           The Burbs         
+Rishi Brandt            Zombie            Medical Hill      
+Orlando 
